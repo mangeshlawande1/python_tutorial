@@ -1,0 +1,1 @@
+#there are come file operation included in file handling like read, write, appendet#Have a nice day, see ya !! \n a for append mode #Have a nice day, see ya !! \n a for append mode #Have a nice day, see ya !! \n a for append mode #Have a nice day, see ya !!  a for append mode 

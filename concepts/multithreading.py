@@ -1,0 +1,1 @@
+#cpu bound = program/task spends most of it's time waiting for internal events (cpu)
