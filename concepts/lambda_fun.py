@@ -23,7 +23,7 @@ print(add(1,2,3))
 
 full_name = lambda f_name, l_name : f_name +" "+l_name
 
-print(full_name("Python", "Free"))
+print(full_name("Python", " Programming Language"))
 
 age_check = lambda age:True if age>=18 else False
 

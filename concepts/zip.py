@@ -5,7 +5,8 @@
 username = ["Dude", "Bro", "Mister"]
 password = ("p@ssword", "abc123", "Guest@12")
 login_date = ["1/2/2021","2/2/2021", "1/2/2021"]
-# users =  dict(zip(username, password))
+# users =  dict(zip(username, password));
+
 
 # print(type(users))
 

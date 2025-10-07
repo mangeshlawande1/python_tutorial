@@ -26,8 +26,11 @@ def divisor(x):
     return dividend
 
 
-divide = divisor(9)
+# divide = divisor(9)
 
-print(divide(2))
+# print(divide(2))
 
 
+divide = divisor(3)
+
+print(divide(9))

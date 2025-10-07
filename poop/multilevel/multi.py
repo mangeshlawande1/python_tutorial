@@ -13,7 +13,7 @@ class Animal(Organism):
 class Dog(Animal):
     
     def bark(self):
-        print("This dog is  know barking ");
+        print("This dog is know barking ");
 
 
 
